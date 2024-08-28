@@ -27,8 +27,8 @@ New controllers will expand the control and monitoring capabilities including:
 
 ## Advanced Motion Control
 ### Basic Requirements
-(AMC001) Granular power/speed management. Minimum level of step 1/100
-(AMC002) Possibility to command specific variation of power/speed (from x to y or from current to y)
-(AMC003) Test function to determine minimum power for movement of the model in standard condition (flat, strait). Result is stored on the controller permanent memory
-(AMC004) Test function to determine power for realistic speeds of the model (maximum speed of real in scale, specific speeds, etc.) Results are stored on the controller permanent memory with specific keywords
-(AMC005) Possibility to command specific memorized speeds as stored in controller permanent memory.
+- (AMC001) Granular power/speed management. Minimum level of step 1/100
+- (AMC002) Possibility to command specific variation of power/speed (from x to y or from current to y)
+- (AMC003) Test function to determine minimum power for movement of the model in standard condition (flat, strait). Result is stored on the controller permanent memory
+- (AMC004) Test function to determine power for realistic speeds of the model (maximum speed of real in scale, specific speeds, etc.) Results are stored on the controller permanent memory with specific keywords
+- (AMC005) Possibility to command specific memorized speeds as stored in controller permanent memory.
